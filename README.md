@@ -36,6 +36,7 @@
   ![Xcode IDE](https://img.shields.io/badge/Xcode%20IDE-1575F9?logo=xcode&logoColor=white)
   ![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?logo=xcode&logoColor=white)
   ![TestFlight](https://img.shields.io/badge/TestFlight-007AFF?logo=apple&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gray?logo=githubactions&logoColor=white)
 
 - 라이브러리 및 SDK
   
